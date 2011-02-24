@@ -1,3 +1,18 @@
 [submodule "core"]
 	path = core
 	url = git@github.com:JxCMS/core.git
+[submodule "modules/users"]
+	path = modules/users
+	url = git@github.com:JxCMS/users.git
+[submodule "modules/media"]
+	path = modules/media
+	url = git@github.com:JxCMS/media.git
+[submodule "modules/loader"]
+	path = modules/loader
+	url = git@github.com:JxCMS/loader.git
+[submodule "modules/error"]
+	path = modules/error
+	url = git@github.com:JxCMS/error.git
+[submodule "modules/admin"]
+	path = modules/admin
+	url = git@github.com:JxCMS/admin.git
