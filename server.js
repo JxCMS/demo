@@ -1,1 +1,1 @@
-/home/jon/gits/JxCMS/demo/core/server.js
+./core/server.js
